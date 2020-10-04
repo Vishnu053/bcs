@@ -1,0 +1,16 @@
+{
+  "name": "bugScopeScraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapBugCrowd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "table-scraper": "^1.0.3",
+    "prompt": "^1.0.0"
+  }
+}
