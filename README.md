@@ -1,4 +1,5 @@
 # BCS
 
-1.> npm i
-2.> node modules/filename.js
+> npm i
+
+> node modules/filename.js
